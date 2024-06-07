@@ -6,7 +6,6 @@ import Legal from "./Pages/Legal";
 import NotFound from "./Pages/NotFound";
 import Appointment from "./Pages/Appointment";
 import Navbar from "./Components/Navbar";
-import ReactGA from "react-ga"; 
 
 
 function App() {
