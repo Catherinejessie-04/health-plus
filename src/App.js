@@ -8,11 +8,6 @@ import Appointment from "./Pages/Appointment";
 import Navbar from "./Components/Navbar";
 import ReactGA from "react-ga"; 
 
-const MEASUREMENR_ID ="G-KX4SJFZY1K";
-ReactGA.initialize(MEASUREMENT_ID);
-
-const MEASUREMENR_ID ="G-KX4SJFZY1K";
-ReactGA.initialize(MEASUREMENT_ID);
 
 function App() {
   return (
